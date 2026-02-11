@@ -82,5 +82,5 @@ O desenvolvimento deste projeto contou com a colaboração dos seguintes membros
 
 ## Licença
 
-Este repositório não possui um arquivo de licença definido até o momento. Recomenda-se verificar diretamente com os mantenedores do projeto para obter informações sobre os termos de uso e distribuição do código.
+Este repositório não possui um arquivo de licença definido até o momento. Recomenda-se verificar diretamente com os mantenedores do projeto para obter informações sobre os termos de uso e distribuição do código. teste
 
